@@ -1,0 +1,31 @@
+# Maven
+target/
+
+# Screenshots
+Screenshot_success/
+Screenshot_failure/
+
+# TestNG
+test-output/
+
+# Allure
+allure-results/
+allure-report/
+
+# Extent Reports
+extent-report/
+
+# Logs
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
