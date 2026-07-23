@@ -1,3 +1,4 @@
+
 # Maven
 target/
 
@@ -29,3 +30,35 @@ extent-report/
 
 # VS Code
 .vscode/
+=======
+# Maven
+target/
+
+# Test reports
+test-output/
+allure-results/
+allure-report/
+extent-report/
+
+# Screenshots
+Screenshot_success/
+Screenshot_failure/
+
+# Logs
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
